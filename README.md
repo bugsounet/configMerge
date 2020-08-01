@@ -32,3 +32,5 @@ it don't merge all thing in depth
 
  -> object in object and array is not merging
 
+## Note:
+ You can also use the Minified code version `mergeConfig.min.js`
