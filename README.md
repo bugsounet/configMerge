@@ -1,6 +1,7 @@
 # configMerge
 
 Merging MagicMirror (or other) default/config script
+
 merge 2 objects
 
 ## Using:
